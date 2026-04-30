@@ -1,3 +1,3 @@
 # TEXT UTILS
 
-### By APKING7072
+### By APKING7072 (Parth Patil)
